@@ -6,4 +6,5 @@ I use both `fairseq` and `simpletransformers` for training. It took around two h
 
 <h2>TLDR; M2M is much better</h2>
 More details, blog post: https://medium.com/@abdessalemboukil/comparing-facebooks-m2m-to-mt5-in-low-resources-translation-english-yoruba-ef56624d2b75
+
 If you find this useful please star the repo.
